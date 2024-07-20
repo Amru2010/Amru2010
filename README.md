@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on optimizing flight availability and ticket issuance for an Airline Backend System using Node.js.<br><br>👯 I’m looking to collaborate on open-source projects in web development and backend systems.<br><br>🤝 I’m looking for help with advanced data structures and algorithms.<br><br>🌱 I’m currently learning advanced JavaScript frameworks and performance optimization techniques.<br><br>💬 Ask me about web development best practices and competitive programming.<br><br>⚡ Fun fact: I'm a Gold Medalist in chess and led my college team in the Inter-IIIT sports meet.
+🔭 I’m currently working on enhancing my skills and developing great projects.<br><br>👯 I’m looking to collaborate on open-source projects in web development and backend systems.<br><br>🤝 I’m looking for help with advanced data structures and algorithms.<br><br>🌱 I’m currently learning advanced JavaScript frameworks and performance optimization techniques.<br><br>💬 Ask me about web development best practices and competitive programming.<br><br>⚡ Fun fact: I'm a Gold Medalist in chess and led my college team in the Inter-IIIT sports meet.
 
 
 ## 🌐 Socials:
